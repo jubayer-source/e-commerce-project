@@ -583,7 +583,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 **Md. Jubayer Ahmad**
 - GitHub: [@jubayer-source](https://github.com/jubayer-source)
-- Email: Md. Jubayer Ahmad
+- Email: mdjubayerahmad16gmail.com
 
 ## 🙏 Acknowledgments
 
