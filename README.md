@@ -226,17 +226,17 @@ gcc launcher.c -o launcher
 ```
 ╔══════════════════════════════════════════════════════════════════════╗
 ║                     🛒 E-COMMERCE PLATFORM                           ║
-║                    Welcome to Digital Marketplace                     ║
+║                    Welcome to Digital Marketplace                    ║
 ╚══════════════════════════════════════════════════════════════════════╝
 
 🏪 Available Shops (13):
 ┌─────┬──────────────────────┬─────────────────┬──────────────┐
 │ ID  │ Shop Name            │ Category        │ Items        │
 ├─────┼──────────────────────┼─────────────────┼──────────────┤
-│  1  │ 🏢 Juba Soft        │ Software        │ 6 Products   │
-│  2  │ 👗 Shopia           │ Fashion         │ 8 Products   │
-│  3  │ 🎽 Aarong           │ Traditional     │ 7 Products   │
-│  4  │ ⌚ Naviforce        │ Watches         │ 5 Products   │
+│  1  │ 🏢 Juba Soft         │ Software        │ 6 Products   │
+│  2  │ 👗 Shopia            │ Fashion         │ 8 Products   │
+│  3  │ 🎽 Aarong            │ Traditional     │ 7 Products   │
+│  4  │ ⌚ Naviforce         │ Watches         │ 5 Products   │
 └─────┴──────────────────────┴─────────────────┴──────────────┘
 ### **📊 Admin Analytics Dashboard**
 ```
@@ -278,6 +278,8 @@ gcc launcher.c -o launcher
 
 ### **🏢 Essentials**
 - **Bashundhara Group** - Daily necessities
+
+
 
 ## 🔄 Data Synchronization
 
@@ -474,8 +476,8 @@ copies or substantial portions of the Software.
 - **Name:** Md. Jubayer Ahmad
 - **Role:** Full-Stack Developer & System Architect
 - **GitHub:** [@jubayer-source](https://github.com/jubayer-source)
-- **Email:** jubayer@example.com
-- **LinkedIn:** [Jubayer Ahmad](https://linkedin.com/in/jubayer-ahmad)
+- **Email:** mdjubayerahmad16@gmail.com
+- **LinkedIn:** [@jubayer-source](https://www.linkedin.com/in/jubayer-source/)
 
 ### **🤝 Support Channels**
 - **📧 Technical Support:** Create an issue on GitHub
@@ -486,7 +488,7 @@ copies or substantial portions of the Software.
 ### **🌟 Acknowledgments**
 - Thanks to the C programming community
 - Inspired by modern e-commerce platforms
-- Built for Bangladeshi entrepreneurs and small businesses
+- Built for our CSE Undergraduate First Year Second Semister Project as also for entrepreneurs and small businesses
 - Special thanks to beta testers and contributors
 
 ## 📊 Project Statistics
@@ -495,7 +497,7 @@ copies or substantial portions of the Software.
 📈 Project Metrics:
 ├── 📝 Lines of Code: 3,500+
 ├── 🗃️ Database Files: 5 core files
-├── 🏪 Supported Shops: 13 categories
+├── 🏪 Supported Shops: 13 categories (unlimited you can add.)
 ├── 👥 User Types: Customers + Shop Owners
 ├── 🔧 Components: 4 main applications
 ├── 🎯 Features: 25+ core features
@@ -581,7 +583,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 **Md. Jubayer Ahmad**
 - GitHub: [@jubayer-source](https://github.com/jubayer-source)
-- Email: jubayer@example.com
+- Email: Md. Jubayer Ahmad
 
 ## 🙏 Acknowledgments
 
