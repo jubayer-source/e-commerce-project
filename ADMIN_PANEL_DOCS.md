@@ -68,7 +68,8 @@ The **E-Commerce Admin Panel** is a comprehensive management system designed spe
 - **XOR Encryption** with secret key: `"admin_secret_key_2025"`
 - **Session Management** with secure login/logout
 - **Individual Shop Access** - Admins can only manage their own products
-- **Password Format:** `ShopName!2` with hex encoding
+- **Password Security:** Shop owners set their own passwords (any format)
+- **Development Note:** Currently using `ShopName!2` format for testing purposes only
 
 ### **📊 Analytics Engine**
 - **Real-time Revenue Calculation** from order_history.dat
@@ -157,8 +158,14 @@ Choose [2] Register Shop
 ├── Owner Full Name
 ├── Email Address (for login)
 ├── Phone Number (BD format: 01XXXXXXXXX)
-├── Password (will be encrypted)
+├── Password (choose your own secure password)
 └── ✅ Get unique Shop ID
+
+# Password Guidelines:
+├── 🔐 Use any password format you prefer
+├── 💡 Recommended: Mix of letters, numbers, symbols
+├── 🛡️ Minimum 6 characters for security
+└── 📝 Note: System will encrypt automatically
 
 # Automatic Features
 ├── 🔐 Password encryption with XOR + hex
@@ -339,6 +346,49 @@ Dashboard → [3] View Orders
 └── 📈 Average Order: 1,417 Taka
 ```
 
+## 🔐 **Password Policy & Security**
+
+### **🏗️ Development vs Production**
+
+#### **🛠️ Development Environment (Current)**
+```bash
+# For Testing & Development Only
+Password Format: "ShopName!2"
+Examples:
+├── Aarong: "Aarong!2"
+├── Yellow: "Yellow!2" 
+├── Juba Soft: "Juba Soft!2"
+└── HP: "HP!2"
+
+Purpose: Easy testing and account management during development
+```
+
+#### **🚀 Production Environment (Real Use)**
+```bash
+# Shop Owners Set Their Own Passwords
+Registration Process:
+├── Shop Owner chooses any password they want
+├── No format restrictions (freedom of choice)
+├── Password strength recommendations provided
+├── XOR encryption + hex encoding applied automatically
+└── Stored securely in admin_accounts.dat
+
+Password Guidelines for Shop Owners:
+├── 🔐 Use strong, unique passwords
+├── 💡 Mix uppercase, lowercase, numbers, symbols
+├── 🛡️ Minimum 8 characters recommended
+├── 🚫 Avoid common words or personal info
+└── 🔄 Change password every 3-6 months
+```
+
+### **🔒 Security Implementation**
+- **Encryption Method:** XOR with secret key + hex encoding
+- **Storage:** No plain text passwords ever stored
+- **Session:** Secure login/logout with timeout
+- **Access Control:** Shop-specific data isolation
+
+---
+
 ## 🛡️ **Security & Best Practices**
 
 ### **🔐 Account Security**
@@ -434,7 +484,7 @@ Dashboard → [3] View Orders
 ### **👨‍💻 Developer Information**
 - **Name:** Md. Jubayer Ahmad
 - **Role:** Full-Stack Developer & E-commerce Specialist
-- **Email:** jubayer@example.com
+- **Email:** mdjubayerahmad16@gmail.com
 - **GitHub:** [@jubayer-source](https://github.com/jubayer-source)
 - **Project:** [E-Commerce Platform](https://github.com/jubayer-source/e-commerce-project)
 
