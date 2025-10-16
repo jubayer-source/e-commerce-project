@@ -1,0 +1,621 @@
+product_id: 1886
+shop_id: 1
+shop_name: Juba Soft
+product_name: Facebook 2.0 App
+price: 202020200
+stock: 21
+sold_quantity: 0
+total_revenue: 0.00
+date_added: 16-10-2025
+---
+product_id: 1777
+shop_id: 1
+shop_name: Juba Soft
+product_name: Tiktokia App
+price: 22000000
+stock: 5
+sold_quantity: 0
+total_revenue: 0.00
+date_added: 16-10-2025
+---
+product_id: 1915
+shop_id: 1
+shop_name: Juba Soft
+product_name: PDF Reader
+price: 40000
+stock: 20
+sold_quantity: 0
+total_revenue: 0.00
+date_added: 16-10-2025
+---
+product_id: 2793
+shop_id: 2
+shop_name: Shopia
+product_name: Hand Made Sari
+price: 6400
+stock: 24
+sold_quantity: 0
+total_revenue: 0.00
+date_added: 16-10-2025
+---
+product_id: 2335
+shop_id: 2
+shop_name: Shopia
+product_name: Baby Frog
+price: 350
+stock: 65
+sold_quantity: 0
+total_revenue: 0.00
+date_added: 16-10-2025
+---
+product_id: 5001
+shop_id: 5
+shop_name: Aarong
+product_name: Cotton Panjabi
+price: 1450
+stock: 4
+sold_quantity: 0
+total_revenue: 0.00
+date_added: 16-10-2025
+---
+product_id: 5002
+shop_id: 5
+shop_name: Aarong
+product_name: Handloom Saree
+price: 2200
+stock: 3
+sold_quantity: 0
+total_revenue: 0.00
+date_added: 16-10-2025
+---
+product_id: 5003
+shop_id: 5
+shop_name: Aarong
+product_name: Leather Bag
+price: 3200
+stock: 0
+sold_quantity: 0
+total_revenue: 0.00
+date_added: 16-10-2025
+---
+product_id: 5004
+shop_id: 5
+shop_name: Aarong
+product_name: Khadi Kurti
+price: 1800
+stock: 5
+sold_quantity: 0
+total_revenue: 0.00
+date_added: 16-10-2025
+---
+product_id: 6001
+shop_id: 6
+shop_name: Yellow
+product_name: Casual Shirt
+price: 1250
+stock: 6
+sold_quantity: 0
+total_revenue: 0.00
+date_added: 16-10-2025
+---
+product_id: 6002
+shop_id: 6
+shop_name: Yellow
+product_name: Jeans Pant
+price: 1800
+stock: 7
+sold_quantity: 0
+total_revenue: 0.00
+date_added: 16-10-2025
+---
+product_id: 6003
+shop_id: 6
+shop_name: Yellow
+product_name: Graphic Tee
+price: 850
+stock: 2
+sold_quantity: 0
+total_revenue: 0.00
+date_added: 16-10-2025
+---
+product_id: 6004
+shop_id: 6
+shop_name: Yellow
+product_name: Hoodie
+price: 1500
+stock: 4
+sold_quantity: 0
+total_revenue: 0.00
+date_added: 16-10-2025
+---
+product_id: 6005
+shop_id: 6
+shop_name: Yellow
+product_name: Shorts
+price: 900
+stock: 5
+sold_quantity: 0
+total_revenue: 0.00
+date_added: 16-10-2025
+---
+product_id: 7001
+shop_id: 7
+shop_name: Naviforce
+product_name: Naviforce Analog Watch
+price: 1850
+stock: 6
+sold_quantity: 0
+total_revenue: 0.00
+date_added: 16-10-2025
+---
+product_id: 7002
+shop_id: 7
+shop_name: Naviforce
+product_name: Naviforce Digital Watch
+price: 2200
+stock: 5
+sold_quantity: 0
+total_revenue: 0.00
+date_added: 16-10-2025
+---
+product_id: 7003
+shop_id: 7
+shop_name: Naviforce
+product_name: Naviforce Chronograph Watch
+price: 3500
+stock: 3
+sold_quantity: 0
+total_revenue: 0.00
+date_added: 16-10-2025
+---
+product_id: 7004
+shop_id: 7
+shop_name: Naviforce
+product_name: Naviforce Leather Strap Watch
+price: 2600
+stock: 4
+sold_quantity: 0
+total_revenue: 0.00
+date_added: 16-10-2025
+---
+product_id: 7005
+shop_id: 7
+shop_name: Naviforce
+product_name: Naviforce Sports Watch
+price: 2800
+stock: 7
+sold_quantity: 0
+total_revenue: 0.00
+date_added: 16-10-2025
+---
+product_id: 8001
+shop_id: 8
+shop_name: Dukpion
+product_name: Polarized Sunglasses
+price: 1000
+stock: 7
+sold_quantity: 0
+total_revenue: 0.00
+date_added: 16-10-2025
+---
+product_id: 8002
+shop_id: 8
+shop_name: Dukpion
+product_name: Classic Aviator Sunglasses
+price: 1200
+stock: 5
+sold_quantity: 0
+total_revenue: 0.00
+date_added: 16-10-2025
+---
+product_id: 8003
+shop_id: 8
+shop_name: Dukpion
+product_name: UV Protection Sunglasses
+price: 1400
+stock: 6
+sold_quantity: 0
+total_revenue: 0.00
+date_added: 16-10-2025
+---
+product_id: 8004
+shop_id: 8
+shop_name: Dukpion
+product_name: Sports Sunglasses
+price: 1600
+stock: 4
+sold_quantity: 0
+total_revenue: 0.00
+date_added: 16-10-2025
+---
+product_id: 8005
+shop_id: 8
+shop_name: Dukpion
+product_name: Premium Metal Frame Sunglasses
+price: 2000
+stock: 3
+sold_quantity: 0
+total_revenue: 0.00
+date_added: 16-10-2025
+---
+product_id: 9001
+shop_id: 9
+shop_name: Sailor
+product_name: Polo T-Shirt
+price: 1200
+stock: 4
+sold_quantity: 0
+total_revenue: 0.00
+date_added: 16-10-2025
+---
+product_id: 9002
+shop_id: 9
+shop_name: Sailor
+product_name: Chino Pant
+price: 1750
+stock: 5
+sold_quantity: 0
+total_revenue: 0.00
+date_added: 16-10-2025
+---
+product_id: 9003
+shop_id: 9
+shop_name: Sailor
+product_name: Hoodie
+price: 2100
+stock: 2
+sold_quantity: 0
+total_revenue: 0.00
+date_added: 16-10-2025
+---
+product_id: 9004
+shop_id: 9
+shop_name: Sailor
+product_name: Jacket
+price: 3000
+stock: 3
+sold_quantity: 0
+total_revenue: 0.00
+date_added: 16-10-2025
+---
+product_id: 9005
+shop_id: 9
+shop_name: Sailor
+product_name: Sneakers
+price: 2500
+stock: 2
+sold_quantity: 0
+total_revenue: 0.00
+date_added: 16-10-2025
+---
+product_id: 9006
+shop_id: 9
+shop_name: Sailor
+product_name: Cap
+price: 500
+stock: 8
+sold_quantity: 0
+total_revenue: 0.00
+date_added: 16-10-2025
+---
+product_id: 10001
+shop_id: 10
+shop_name: Cats Eye
+product_name: Formal Shirt
+price: 1550
+stock: 4
+sold_quantity: 0
+total_revenue: 0.00
+date_added: 16-10-2025
+---
+product_id: 10002
+shop_id: 10
+shop_name: Cats Eye
+product_name: Blazer
+price: 4200
+stock: 4
+sold_quantity: 0
+total_revenue: 0.00
+date_added: 16-10-2025
+---
+product_id: 10003
+shop_id: 10
+shop_name: Cats Eye
+product_name: Slim Fit Trousers
+price: 1800
+stock: 6
+sold_quantity: 0
+total_revenue: 0.00
+date_added: 16-10-2025
+---
+product_id: 10004
+shop_id: 10
+shop_name: Cats Eye
+product_name: Leather Belt
+price: 600
+stock: 10
+sold_quantity: 0
+total_revenue: 0.00
+date_added: 16-10-2025
+---
+product_id: 11001
+shop_id: 11
+shop_name: PRAN Store
+product_name: PRAN Mango Juice (1L)
+price: 180
+stock: 12
+sold_quantity: 0
+total_revenue: 0.00
+date_added: 16-10-2025
+---
+product_id: 11002
+shop_id: 11
+shop_name: PRAN Store
+product_name: PRAN Fruit Bar (Pack)
+price: 60
+stock: 20
+sold_quantity: 0
+total_revenue: 0.00
+date_added: 16-10-2025
+---
+product_id: 11003
+shop_id: 11
+shop_name: PRAN Store
+product_name: PRAN Noodles (5 pcs)
+price: 250
+stock: 8
+sold_quantity: 0
+total_revenue: 0.00
+date_added: 16-10-2025
+---
+product_id: 11004
+shop_id: 11
+shop_name: PRAN Store
+product_name: PRAN Tomato Ketchup (500g)
+price: 130
+stock: 15
+sold_quantity: 0
+total_revenue: 0.00
+date_added: 16-10-2025
+---
+product_id: 11005
+shop_id: 11
+shop_name: PRAN Store
+product_name: PRAN Biscuit Pack
+price: 90
+stock: 25
+sold_quantity: 0
+total_revenue: 0.00
+date_added: 16-10-2025
+---
+product_id: 12001
+shop_id: 12
+shop_name: Walton
+product_name: Walton LED TV 32"
+price: 22000
+stock: 3
+sold_quantity: 0
+total_revenue: 0.00
+date_added: 16-10-2025
+---
+product_id: 12002
+shop_id: 12
+shop_name: Walton
+product_name: Walton Refrigerator 200L
+price: 28000
+stock: 2
+sold_quantity: 0
+total_revenue: 0.00
+date_added: 16-10-2025
+---
+product_id: 12003
+shop_id: 12
+shop_name: Walton
+product_name: Walton Washing Machine 7kg
+price: 18000
+stock: 1
+sold_quantity: 0
+total_revenue: 0.00
+date_added: 16-10-2025
+---
+product_id: 12004
+shop_id: 12
+shop_name: Walton
+product_name: Walton Air Conditioner 1.5 Ton
+price: 45000
+stock: 2
+sold_quantity: 0
+total_revenue: 0.00
+date_added: 16-10-2025
+---
+product_id: 12005
+shop_id: 12
+shop_name: Walton
+product_name: Walton Microwave Oven
+price: 7500
+stock: 3
+sold_quantity: 0
+total_revenue: 0.00
+date_added: 16-10-2025
+---
+product_id: 12006
+shop_id: 12
+shop_name: Walton
+product_name: Walton Fan
+price: 2200
+stock: 5
+sold_quantity: 0
+total_revenue: 0.00
+date_added: 16-10-2025
+---
+product_id: 13001
+shop_id: 13
+shop_name: Radhuni
+product_name: Radhuni Turmeric Powder
+price: 150
+stock: 10
+sold_quantity: 0
+total_revenue: 0.00
+date_added: 16-10-2025
+---
+product_id: 13002
+shop_id: 13
+shop_name: Radhuni
+product_name: Radhuni Chili Powder
+price: 120
+stock: 8
+sold_quantity: 0
+total_revenue: 0.00
+date_added: 16-10-2025
+---
+product_id: 13003
+shop_id: 13
+shop_name: Radhuni
+product_name: Radhuni Masala Mix
+price: 200
+stock: 5
+sold_quantity: 0
+total_revenue: 0.00
+date_added: 16-10-2025
+---
+product_id: 13004
+shop_id: 13
+shop_name: Radhuni
+product_name: Radhuni Cumin Powder
+price: 180
+stock: 7
+sold_quantity: 0
+total_revenue: 0.00
+date_added: 16-10-2025
+---
+product_id: 14001
+shop_id: 14
+shop_name: HP
+product_name: HP Laptop 15"
+price: 55000
+stock: 3
+sold_quantity: 0
+total_revenue: 0.00
+date_added: 16-10-2025
+---
+product_id: 14002
+shop_id: 14
+shop_name: HP
+product_name: HP Printer DeskJet
+price: 8500
+stock: 4
+sold_quantity: 0
+total_revenue: 0.00
+date_added: 16-10-2025
+---
+product_id: 14003
+shop_id: 14
+shop_name: HP
+product_name: HP Monitor 24"
+price: 12500
+stock: 2
+sold_quantity: 0
+total_revenue: 0.00
+date_added: 16-10-2025
+---
+product_id: 14004
+shop_id: 14
+shop_name: HP
+product_name: HP Mouse Wireless
+price: 1200
+stock: 6
+sold_quantity: 0
+total_revenue: 0.00
+date_added: 16-10-2025
+---
+product_id: 14005
+shop_id: 14
+shop_name: HP
+product_name: HP Keyboard
+price: 1500
+stock: 5
+sold_quantity: 0
+total_revenue: 0.00
+date_added: 16-10-2025
+---
+product_id: 15001
+shop_id: 15
+shop_name: Bashundhara Group
+product_name: Bashundhara Tissue Pack
+price: 220
+stock: 19
+sold_quantity: 0
+total_revenue: 0.00
+date_added: 16-10-2025
+---
+product_id: 15002
+shop_id: 15
+shop_name: Bashundhara Group
+product_name: Bashundhara Cooking Oil 1L
+price: 280
+stock: 12
+sold_quantity: 0
+total_revenue: 0.00
+date_added: 16-10-2025
+---
+product_id: 15003
+shop_id: 15
+shop_name: Bashundhara Group
+product_name: Bashundhara Flour 5kg
+price: 480
+stock: 10
+sold_quantity: 0
+total_revenue: 0.00
+date_added: 16-10-2025
+---
+product_id: 15004
+shop_id: 15
+shop_name: Bashundhara Group
+product_name: Bashundhara Milk Powder 1kg
+price: 650
+stock: 8
+sold_quantity: 0
+total_revenue: 0.00
+date_added: 16-10-2025
+---
+product_id: 15005
+shop_id: 15
+shop_name: Bashundhara Group
+product_name: Bashundhara Soap Pack
+price: 200
+stock: 15
+sold_quantity: 0
+total_revenue: 0.00
+date_added: 16-10-2025
+---
+shop: Radhuni
+item1: Radhuni Turmeric Powder
+price1: 150
+quantity1: 10
+item2: Radhuni Chili Powder
+price2: 120
+quantity2: 8
+item3: Radhuni Masala Mix
+price3: 200
+quantity3: 30
+item4: Radhuni Cumin Powder
+price4: 180
+quantity4: 7
+---
+shop: Bashundhara Group
+item1: Bashundhara Tissue Pack
+price1: 220
+quantity1: 19
+item2: Bashundhara Cooking Oil 1L
+price2: 280
+quantity2: 12
+item3: Bashundhara Flour 5kg
+price3: 480
+quantity3: 10
+item4: Bashundhara Milk Powder 1kg
+price4: 650
+quantity4: 100
+item5: Bashundhara Soap Pack
+price5: 200
+quantity5: 15
+---

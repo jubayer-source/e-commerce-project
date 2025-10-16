@@ -1,0 +1,206 @@
+shop: Juba Soft
+item1: Facebook 2.0 App
+price1: 202020200
+quantity1: 20
+item2: Tiktokia App
+price2: 22000000
+quantity2: 5
+item3: PDF Reader
+price3: 40000
+quantity3: 20
+---
+shop: Shopia
+item1: Hand Made Sari
+price1: 6400
+quantity1: 24
+item2: Baby Frog
+price2: 350
+quantity2: 65
+---
+shop: Aarong
+item1: Cotton Panjabi
+price1: 1450
+quantity1: 120
+item2: Handloom Saree
+price2: 2200
+quantity2: 35
+item3: Leather Bag
+price3: 3200
+quantity3: 0
+item4: Khadi Kurti
+price4: 1800
+quantity4: 30
+item5: Jeans Ladies Pent
+price5: 730
+quantity5: 25
+---
+shop: Yellow
+item1: Casual Shirt
+price1: 1250
+quantity1: 6
+item2: Jeans Pant
+price2: 1800
+quantity2: 7
+item3: Graphic Tee
+price3: 850
+quantity3: 2
+item4: Hoodie
+price4: 1500
+quantity4: 4
+item5: Shorts
+price5: 900
+quantity5: 5
+---
+shop: Naviforce
+item1: Naviforce Analog Watch
+price1: 1850
+quantity1: 6
+item2: Naviforce Digital Watch
+price2: 2200
+quantity2: 5
+item3: Naviforce Chronograph Watch
+price3: 3500
+quantity3: 3
+item4: Naviforce Leather Strap Watch
+price4: 2600
+quantity4: 4
+item5: Naviforce Sports Watch
+price5: 2800
+quantity5: 7
+---
+shop: Dukpion
+item1: Polarized Sunglasses
+price1: 1000
+quantity1: 7
+item2: Classic Aviator Sunglasses
+price2: 1200
+quantity2: 5
+item3: UV Protection Sunglasses
+price3: 1400
+quantity3: 6
+item4: Sports Sunglasses
+price4: 1600
+quantity4: 4
+item5: Premium Metal Frame Sunglasses
+price5: 2000
+quantity5: 3
+---
+shop: Sailor
+item1: Polo T-Shirt
+price1: 1200
+quantity1: 4
+item2: Chino Pant
+price2: 1750
+quantity2: 5
+item3: Hoodie
+price3: 2100
+quantity3: 2
+item4: Jacket
+price4: 3000
+quantity4: 3
+item5: Sneakers
+price5: 2500
+quantity5: 2
+item6: Cap
+price6: 500
+quantity6: 8
+---
+shop: Cats Eye
+item1: Formal Shirt
+price1: 1550
+quantity1: 4
+item2: Blazer
+price2: 4200
+quantity2: 4
+item3: Slim Fit Trousers
+price3: 1800
+quantity3: 6
+item4: Leather Belt
+price4: 600
+quantity4: 10
+---
+shop: PRAN Store
+item1: PRAN Mango Juice (1L)
+price1: 180
+quantity1: 12
+item2: PRAN Fruit Bar (Pack)
+price2: 60
+quantity2: 20
+item3: PRAN Noodles (5 pcs)
+price3: 250
+quantity3: 8
+item4: PRAN Tomato Ketchup (500g)
+price4: 130
+quantity4: 15
+item5: PRAN Biscuit Pack
+price5: 90
+quantity5: 25
+---
+shop: Walton
+item1: Walton LED TV 32"
+price1: 22000
+quantity1: 3
+item2: Walton Refrigerator 200L
+price2: 28000
+quantity2: 2
+item3: Walton Washing Machine 7kg
+price3: 18000
+quantity3: 1
+item4: Walton Air Conditioner 1.5 Ton
+price4: 45000
+quantity4: 2
+item5: Walton Microwave Oven
+price5: 7500
+quantity5: 3
+item6: Walton Fan
+price6: 2200
+quantity6: 5
+---
+shop: Radhuni
+item1: Radhuni Turmeric Powder
+price1: 150
+quantity1: 10
+item2: Radhuni Chili Powder
+price2: 120
+quantity2: 8
+item3: Radhuni Masala Mix
+price3: 200
+quantity3: 30
+item4: Radhuni Cumin Powder
+price4: 180
+quantity4: 7
+---
+shop: HP
+item1: HP Laptop 15"
+price1: 55000
+quantity1: 30
+item2: HP Printer DeskJet
+price2: 8500
+quantity2: 4
+item3: HP Monitor 24"
+price3: 12500
+quantity3: 2
+item4: HP Mouse Wireless
+price4: 1200
+quantity4: 6
+item5: HP Keyboard
+price5: 1500
+quantity5: 5
+---
+shop: Bashundhara Group
+item1: Bashundhara Tissue Pack
+price1: 220
+quantity1: 19
+item2: Bashundhara Cooking Oil 1L
+price2: 280
+quantity2: 12
+item3: Bashundhara Flour 5kg
+price3: 480
+quantity3: 10
+item4: Bashundhara Milk Powder 1kg
+price4: 650
+quantity4: 100
+item5: Bashundhara Soap Pack
+price5: 200
+quantity5: 15
+---

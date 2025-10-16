@@ -1,0 +1,126 @@
+shop_id: 1
+shop_name: Juba Soft
+owner_name: Juba Soft Owner
+email: jubasoft@gmail.com
+password: 2b110f081d3015114240
+phone: 01712345678
+registration_date: 17-10-2025
+status: 1
+---
+shop_id: 2
+shop_name: Shopia
+owner_name: Shopia Owner
+email: shopia@gmail.com
+password: 320c0219073e5257
+phone: 01712345679
+registration_date: 17-10-2025
+status: 1
+---
+shop_id: 5
+shop_name: Aarong
+owner_name: Aarong Owner
+email: aarong@gmail.com
+password: 20051f0600385257
+phone: 01712345680
+registration_date: 17-10-2025
+status: 1
+---
+shop_id: 6
+shop_name: Yellow
+owner_name: Yellow Owner
+email: yellow@gmail.com
+password: 3801010501285257
+phone: 01712345681
+registration_date: 17-10-2025
+status: 1
+---
+shop_id: 7
+shop_name: Naviforce
+owner_name: Naviforce Owner
+email: naviforce@gmail.com
+password: 2f051b0008300106065357
+phone: 01712345682
+registration_date: 17-10-2025
+status: 1
+---
+shop_id: 8
+shop_name: Dukpion
+owner_name: Dukpion Owner
+email: dukpion@gmail.com
+password: 2511061907301d4451
+phone: 01712345683
+registration_date: 17-10-2025
+status: 1
+---
+shop_id: 9
+shop_name: Sailor
+owner_name: Sailor Owner
+email: sailor@gmail.com
+password: 32050405012d5257
+phone: 01712345684
+registration_date: 17-10-2025
+status: 1
+---
+shop_id: 10
+shop_name: Cats Eye
+owner_name: Cats Eye Owner
+email: catseye@gmail.com
+password: 2205191a0b26164451
+phone: 01712345685
+registration_date: 17-10-2025
+status: 1
+---
+shop_id: 11
+shop_name: PRAN Store
+owner_name: PRAN Store Owner
+email: pranstore@gmail.com
+password: 31160c071d2b1c17065357
+phone: 01712345686
+registration_date: 17-10-2025
+status: 1
+---
+shop_id: 12
+shop_name: Walton
+owner_name: Walton Owner
+email: walton@gmail.com
+password: 3605011d01315257
+phone: 01712345687
+registration_date: 17-10-2025
+status: 1
+---
+shop_id: 13
+shop_name: Radhuni
+owner_name: Radhuni Owner
+email: radhuni@gmail.com
+password: 330509011b311a4451
+phone: 01712345688
+registration_date: 17-10-2025
+status: 1
+---
+shop_id: 14
+shop_name: HP
+owner_name: HP Owner
+email: hp@gmail.com
+password: 29140a040f361f4451
+phone: 01712345689
+registration_date: 17-10-2025
+status: 1
+---
+shop_id: 15
+shop_name: Bashundhara Group
+owner_name: Bashundhara Group Owner
+email: bashundharagroup@gmail.com
+password: 23051e011b31170d020004132d0410097e00
+phone: 01712345690
+registration_date: 17-10-2025
+status: 1
+---
+shop_id: 16
+shop_name: Test Account
+owner_name: Test User
+email: test@gmail.com
+password: 35011e1d4f6d
+phone: 01712345691
+registration_date: 17-10-2025
+status: 1
+---
