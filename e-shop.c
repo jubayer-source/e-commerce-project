@@ -83,7 +83,7 @@ int main()
     while (1) {
         clear_screen();
         printf("\n\n\t╔══════════════════════════════════════════════════════╗\n");
-        printf("\t║              🛒 WELCOME TO SHOP CART 🛒              ║\n");
+        printf("\t║           🛒 WELCOME TO E-COMMERSE SHOP 🛒           ║\n");
         printf("\t╠══════════════════════════════════════════════════════╣\n");
         printf("\t║                                                      ║\n");
         printf("\t║  [1] 🔐 LOGIN     - Access Your Account              ║\n");
