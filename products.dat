@@ -12,10 +12,10 @@ quantity3: 20
 shop: Shopia
 item1: Hand Made Sari
 price1: 6400
-quantity1: 24
+quantity1: 23
 item2: Baby Frog
 price2: 350
-quantity2: 65
+quantity2: 63
 ---
 shop: Aarong
 item1: Cotton Panjabi
@@ -159,7 +159,7 @@ quantity6: 5
 shop: Radhuni
 item1: Radhuni Turmeric Powder
 price1: 150
-quantity1: 10
+quantity1: 9
 item2: Radhuni Chili Powder
 price2: 120
 quantity2: 8
